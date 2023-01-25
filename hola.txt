@@ -1,2 +1,6 @@
 asdasdasdasd holaaa
+<<<<<<< Updated upstream
 hola3
+=======
+hola1
+>>>>>>> Stashed changes
