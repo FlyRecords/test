@@ -1,15 +1,1 @@
-asdasdasdasd holaaa
-<<<<<<< Updated upstream
-hola3
-=======
-hola1
->>>>>>> Stashed changes
-hola5
-hola6
-<<<<<<< HEAD
-hola8
-hola9
-=======
-hola10
-hola11
->>>>>>> 9c62a2da8ca1b742c6ff5fa0c03e78c3c520f3da
+arreglo de este archivo
